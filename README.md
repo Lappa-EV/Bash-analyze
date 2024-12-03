@@ -10,7 +10,7 @@
 
 [report.txt](https://github.com/Lappa-EV/Bash-analyze/blob/main/report.txt) - отчетный файл, в который записываются результаты анализа при выполнении analyze_logs.sh;
 
-[example.png](https://github.com/Lappa-EV/Bash-analyze/blob/main/example.png) - пример ввода команд и вывовода результата работы файла analyze_logs.sh;
+[example.png](https://github.com/Lappa-EV/Bash-analyze/blob/main/example.png) - пример ввода команд и вывовода результата работы файла analyze_logs.sh.
 
 ## Особенности
 
