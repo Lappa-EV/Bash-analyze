@@ -1,12 +1,14 @@
 # Bash-analyze
 
+Проект предназначен для анализа логов веб-сервера. 
+
 ## Содержание
 
 [analyze_logs.sh](https://github.com/Lappa-EV/Bash-analyze/blob/main/analyze_logs.sh) — это файл со скриптом на Bash, который анализирует логи веб-сервера, предоставляя полезную информацию о запросах. С помощью этого инструмента можно получить сведения о количестве запросов, уникальных IP-адресах, распределении HTTP методов и самой популярной странице;
 
 [access.log](https://github.com/Lappa-EV/Bash-analyze/blob/main/access.log) - файл с логами, для тестирования analyze_logs.sh;
 
-[report.txt](https://github.com/Lappa-EV/Bash-analyze/blob/main/report.txt) - файл, который должен получиться при выполнении analyze_logs.sh;
+[report.txt](https://github.com/Lappa-EV/Bash-analyze/blob/main/report.txt) - отчетный файл, в который записываются результаты анализа при выполнении analyze_logs.sh;
 
 [example.png](https://github.com/Lappa-EV/Bash-analyze/blob/main/example.png) - пример ввода команд и вывовода результата работы файла analyze_logs.sh;
 
