@@ -63,6 +63,7 @@
 
 ## Пример ввода команд и вывовода результата работы файла analyze_logs.sh
 ![example.png](https://github.com/Lappa-EV/Bash-analyze/blob/main/example.png)
+<img src="./example.png" alt="example.png" width="50%" height="50%">
 
 
 ## Требования
